@@ -9,7 +9,7 @@ export const contactList = [
     {
       id: 2,
       name: "John Appleseed",
-      profilePic: "./profile/theindiandev.jpeg",
+      profilePic: "./profile/dev.jpeg",
       lastText: `I'm with you`,
       lastTextTime: "12:45 PM",
     },

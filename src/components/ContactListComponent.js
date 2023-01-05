@@ -109,7 +109,7 @@ const ContactListComponent=(props)=>{
    
     return <Container>
     <ProfileInfoDiv>
-         <ProfileImage src="/profile/theindiandev.jpeg"/>
+         <ProfileImage src="/profile/anshu.jpg"/>
     </ProfileInfoDiv>
     <SearchBox>
         <SearchContainer>
